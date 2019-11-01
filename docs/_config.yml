@@ -6,7 +6,7 @@ description: >
   providing documentation and pages.
 lang: en-US
 
-baseurl: "docs" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://doug-forester.github.io/stratcom # the base hostname & protocol for your site
 git_address: https://github.com/doug-forester/stratcom
 git_edit_address: https://github.com/doug-forester/stratcom/docs/blob/gh-pages
