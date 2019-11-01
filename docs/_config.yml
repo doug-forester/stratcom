@@ -11,8 +11,6 @@ url: https://doug-forester.github.io/stratcom # the base hostname & protocol for
 git_address: https://github.com/doug-forester/stratcom
 git_edit_address: https://github.com/doug-forester/stratcom/docs/blob/gh-pages
 
-docs/index.html
-
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
 bootwatch: lumen
